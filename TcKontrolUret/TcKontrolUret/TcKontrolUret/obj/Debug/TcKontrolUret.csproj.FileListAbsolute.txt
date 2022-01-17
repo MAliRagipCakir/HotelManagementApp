@@ -1,0 +1,10 @@
+C:\Users\Ali\Desktop\TcKontrolUret\TcKontrolUret\TcKontrolUret\bin\Debug\TcKontrolUret.exe.config
+C:\Users\Ali\Desktop\TcKontrolUret\TcKontrolUret\TcKontrolUret\bin\Debug\TcKontrolUret.exe
+C:\Users\Ali\Desktop\TcKontrolUret\TcKontrolUret\TcKontrolUret\bin\Debug\TcKontrolUret.pdb
+C:\Users\Ali\Desktop\TcKontrolUret\TcKontrolUret\TcKontrolUret\obj\Debug\TcKontrolUret.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\TcKontrolUret\TcKontrolUret\TcKontrolUret\obj\Debug\TcKontrolUret.Form1.resources
+C:\Users\Ali\Desktop\TcKontrolUret\TcKontrolUret\TcKontrolUret\obj\Debug\TcKontrolUret.Properties.Resources.resources
+C:\Users\Ali\Desktop\TcKontrolUret\TcKontrolUret\TcKontrolUret\obj\Debug\TcKontrolUret.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\TcKontrolUret\TcKontrolUret\TcKontrolUret\obj\Debug\TcKontrolUret.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\TcKontrolUret\TcKontrolUret\TcKontrolUret\obj\Debug\TcKontrolUret.exe
+C:\Users\Ali\Desktop\TcKontrolUret\TcKontrolUret\TcKontrolUret\obj\Debug\TcKontrolUret.pdb
