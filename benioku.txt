@@ -1,0 +1,8 @@
+Uygulamada yeni Customer oluştururken Identity Number'ı tc kimlik kontrolünden(sınıfta yaptığımız bi projeden) geçirdim. Bu sebeple küçük bir TcÜret form uygulaması yapıp projenin yanına ekliyorum
+
+
+
+Create-Update Reservation formlarında 4 dtp ve 4 ayrı tarih ile 8 tarih zincirleme kontrolü yaparken .Value olan Tarihlerdeki saatler işleri karıştırdı ordaki algoritmayı .Date ile gelen tarihlerin saatlerini 12:00:00 a sabitliyerek çözmeye çalıştım.
+Bi noktadan sonra kafam çok karıştı, hata yok gibi ama Bu formlarda hata çıkabilir
+
+Bi reservasyon oluşturup ertesi gün(gerçek zamanda) reservasyonun oluştuğu saatten önce update ederken bi hata çıkabilir
